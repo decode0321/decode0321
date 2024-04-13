@@ -1,9 +1,7 @@
 <h1 align="center">hiya, im felipe</h1>
 <h3 align="center">unity game developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipekineticore&label=Profile%20views&color=0e75b6&style=flat" alt="felipekineticore" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipekineticore" alt="felipekineticore" /></a> </p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
