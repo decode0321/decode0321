@@ -1,4 +1,7 @@
-<p align="left"><b>Programming Languages:</b></p>
+<h3 align="left"><b style="font-size: 24px;">Programming:</b></h3>
+
+<!-- Coding Languages Section -->
+<p align="left"><b style="font-size: 20px;">Programming Languages:</b></p>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -17,7 +20,8 @@
   </a>
 </p>
 
-<p align="left"><b>3D Tools:</b></p>
+<!-- 3D Section -->
+<p align="left"><b style="font-size: 20px;">3D Tools:</b></p>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
@@ -27,7 +31,8 @@
   </a>
 </p>
 
-<p align="left"><b>Graphics Tools:</b></p>
+<!-- Graphics Section -->
+<p align="left"><b style="font-size: 20px;">Graphics Tools:</b></p>
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -37,7 +42,8 @@
   </a>
 </p>
 
-<h3 align="left"><b>My Platforms:</b></h3>
+<!-- Platforms Section -->
+<h3 align="left"><b style="font-size: 24px;">My Platforms:</b></h3>
 <p align="left">
   <a href="https://decode0321.itch.io/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="itch.io" width="40" height="40"/>
